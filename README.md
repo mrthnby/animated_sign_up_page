@@ -1,16 +1,6 @@
 # animated_sign_up
 
-A new Flutter project.
+Live Demo : https://mrthnby.github.io/animated_sign_up/#/
 
-## Getting Started
+https://user-images.githubusercontent.com/72457200/214965991-6c60a24e-4e8a-4035-ada2-606cea98d3c0.mov
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
