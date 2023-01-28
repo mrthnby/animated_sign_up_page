@@ -1,6 +1,9 @@
-# animated_sign_up
+# Animated Sign Up Page
 
-Live Demo : [Animated Sign Up](https://mrthnby.github.io/animated_sign_up/#/)
+### Live Demo : [Animated Sign Up](https://mrthnby.github.io/animated_sign_up/#/)
 
-https://user-images.githubusercontent.com/72457200/214965991-6c60a24e-4e8a-4035-ada2-606cea98d3c0.mov
+### Preview
+
+https://user-images.githubusercontent.com/72457200/215261734-96ebaded-dd45-48cd-8575-f50d62dcb09e.mov
+
 
