@@ -3,6 +3,4 @@
 ### Live Demo : [Animated Sign Up](https://mrthnby.github.io/animated_sign_up/#/)
 
 ### Preview Video : 
-https://user-images.githubusercontent.com/72457200/215261734-96ebaded-dd45-48cd-8575-f50d62dcb09e.mov
-
-
+![preview](https://user-images.githubusercontent.com/72457200/215262449-7bd9f399-c01c-4ae5-9bd8-03764cf39008.gif)
