@@ -1,4 +1,4 @@
-# Animated Sign Up Page
+# Animated Sign Up Page with Flutter
 
 ### Live Demo : [Animated Sign Up](https://mrthnby.github.io/animated_sign_up/#/)
 
